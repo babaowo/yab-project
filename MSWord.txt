@@ -1,0 +1,39 @@
+Git ia an Open Source Distributed Version Control System used to store code. It enanles developers to share their code with others and it is very useful when working on a project that involves a lot of collaborations. It has a remote repository which is stored in a server and a local repository which is stored in the computer of each developer.
+
+Version Control System is a collection of software tools that help a developer to manage changes in a source code. it enables develpers to work on a single project at the same time. It also enables one person to use multiple computers to work on a project. Examples of Version Control System are Git, Mercurial, Subversion etc.
+
+Some popular Git hosting services are: GitHub,GitLab and Bitbucket.
+
+Types of Version Control System are: Local Version Control System, Centralised Version Control System and Distributed Version Control System.
+
+Git is a Version Control System that allows develpoers to manage and track their source code while GitHub is a cloud-based hosting service that allows developers to manage their Git repositories.
+
+A Git repository is a collection of files and folders that represent the history of changes made to our code.
+
+To initialize a repository in Git, these steps must be followed:
+git init - to initialize the local repository as a Git repository.
+git add - to add files in the local repository .
+git commit -m "commit message" - to commit files that have been staged in the local repository.
+git remote add origin (copy the remote repository URL)
+git push -u origin master - to upload the repository in a GitHub.
+
+Advantages of using Git are as follows:
+It is free and there is no need to purchase it.
+It can be used without connecting to the central server.
+Data stored within the repository is secured.
+You can only let others see your work when it is necessary.
+
+Git add - used to add a file into the staging area and to include the changes of a flie into our next commit.
+Git branch - used to create, list and delete branches.
+Git init - used to initialize a new Git repository or create a new empty one.
+Git commit - used to commit staged snapshot to the project history.
+Git push - used to upload the locally committed changes to the remote branch.
+Git pull - used to download a branch from a remote repository.
+Git Checkout - used to switch from one branch to another
+Git remote add - used to connect the local repository to the remote server.
+
+The correct syntax to add a message to a commit is Git commit -m "commit message"
+
+The command used to create am empty Git repository is Git init.
+
+The git push command uploads local repository content to a remote repository.
